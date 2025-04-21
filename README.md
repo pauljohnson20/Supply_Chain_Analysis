@@ -36,7 +36,7 @@ The data is provided in a CSV file format, containing detailed records related t
 ### Data Understanding:
 The dataset consists of 180,519 records across 53 columns, capturing essential details related to orders, customers, sales, shipping modes, and delivery statuses.
 
-### KPIs: The project tracks 20 key performance indicators (KPIs), including:
+### KPIs:
   1. Total customers, total sales, quantity shipped, average shipping days, late deliveries
   2. Lead time distribution by region
   3. Late delivery percentage for each region and lead time
