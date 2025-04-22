@@ -23,6 +23,7 @@ Supply chain inefficiencies, such as late deliveries and high lead times, can si
 
 ### Data Source:
 The data is provided in a CSV file format, containing detailed records related to supply chain operations.
+[Download Dataset](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis)
 
 ### Tools Used:
   - Python
